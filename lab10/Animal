@@ -1,0 +1,9 @@
+class Animal{
+    public Animal(){
+        System.out.println("A new animal has been created.");
+    }
+
+    public void eat(){
+        System.out.println("An animal is eating.");
+    }
+}
